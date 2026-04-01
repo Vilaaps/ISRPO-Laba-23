@@ -1,4 +1,3 @@
-
 const Name = document.getElementById("name");
 const age = document.getElementById("age");
 const city = document.getElementById("city");
